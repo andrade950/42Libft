@@ -1,5 +1,7 @@
 # 📚 Libft — A Tua Primeira Biblioteca
 
+[Read in English](README.md)
+
 > **Projecto da Escola 42** | Versão 16.1
 
 ![C](https://img.shields.io/badge/Linguagem-C-blue?style=flat-square)
