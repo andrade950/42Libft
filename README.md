@@ -1,5 +1,7 @@
 # 📚 Libft — Your First Own Library
 
+[Leia em Português](README.pt.md)
+
 > **42 School Project** | Version 16.1
 
 ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square)
